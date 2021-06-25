@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charchatzo
-- 👀 I’m interested in development
+- 👀 I’m interested in development and linux
 - 🌱 I’m currently learning how to make a custom aosp version
-- 📫 How to reach me from discord : devery0ne#1093
+- 📫 How to reach me from discord : im /bin/bash#1093
 
 <!---
 charchatzo/charchatzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
