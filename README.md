@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charchatzo
-- 👀 I’m interested in development and linux
-- 🌱 I’m currently working on pyease and other projects
-- 📫 How to reach me from discord : Charababis#6969
+- 👀 I’m interested in coding
+- 🌱 I’m currently working on FOSS and ChromiumOS/Chromium
+- 📫 How to reach me: currently on discord Charababis#7470
 
 <!---
 charchatzo/charchatzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
